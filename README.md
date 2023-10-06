@@ -22,8 +22,17 @@ recommendations for setting up vs code
     "python.testing.pytestArgs": [],
     // https://wiki.adsw.io/books/bundles/page/vscode-settings
     "files.insertFinalNewline": true,
-    "files.trimFinalNewlines": true
+    "files.trimFinalNewlines": true,
+    // VISUAL
+    "editor.fontSize": 13,
+    "editor.suggestFontSize": 6,
+    "markdown.preview.fontSize": 0,
+    "terminal.integrated.fontSize": 12,
+    "window.zoomLevel": 0,
+    "workbench.sideBar.location": "left",
+    "editor.mouseWheelZoom": true
 }
+
 ```
 ## .vscode/extensions.json
 
